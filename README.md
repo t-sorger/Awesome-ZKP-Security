@@ -112,7 +112,33 @@ If you want to add a new resource, please submit a pull request to improve this 
 - [ZKProof 6: Why Verifying the Verifier Opens Up Longer-Term ZK Innovation - Ben Livshits (Matter Labs)](https://www.youtube.com/live/JUls9DWQuic?si=82_0U-ObhW5PCJ7j) (May 23, 2024)
 - [ZKProof 6: Practical Formal Verification for Arithmetic Circuits - Marcin Kostrzewa (Reilabs)](https://www.youtube.com/live/pidYRNKplZE?si=qAgi_XQQS4cQPWif) (May 23, 2024)
 - [ZKProof 6: SoK: Understanding Security Vulnerabilities in SNARKs - Stefanos Chaliasos (Imperial College London)](https://www.youtube.com/watch?v=6-aeTlREYZo) (May 24, 2024)
-- [ETHCC\[7\]: Analysis and Auditing of ZKP Vulnerabilities](https://ethcc.io/archive/Analysis-and-Auditing-of-ZKP-Vulnerabilities) (Jul 11, 2024)
+
+### EthCC
+
+| Event  | Topic | Speaker | Date |
+|--------|---------|-------|------|
+|EthCC[2]|[Zero-Knowledge Proofs: Applications in Blockchain Technology](https://ethcc.io/archives/zero-knowledge-proofs-applications-in-blockchain-technology)|Lorenz Breidenbach|March 10, 2019|
+|EthCC[3]|[Perpetual Powers of Tau on SGX: a community zk- SNARKs Trusted Setup in TEE](https://ethcc.io/archives/perpetual-powers-of-tau-on-sgx-a-community-zk-snarks-trusted-setup-in-tee)|Eduardo Antuña Diez|March 5, 2020|
+|EthCC[6]|[zkEVM audit: Soundness & Completeness](https://ethcc.io/archives/zkevm-audit-soundness-and-completeness)|Jacob Van Geffen|July 18, 2023|
+|EthCC[6]|[Auditing zkEVM and it's attack surfaces](https://ethcc.io/archives/auditing-zkevm-and-its-attack-surfaces)|Vahe Karapetyan|July 18, 2023|
+|EthCC[6]|[Medjai: Verifying ZK Smart Contracts](https://ethcc.io/archives/medjai-verifying-zk-smart-contracts)|Jacob Van Geffen|July 18, 2023|
+|EthCC[6]|["Faster,Better,Stronger,Safer" BLS + ZKPs = Better Web3 for all](https://ethcc.io/archives/fasterbetterstrongersafer-bls-zkps-better-web3-for-all)|Amira Bouguera|July 18, 2023|
+|EthCC[7]|[Analysis and Auditing of ZKP Vulnerabilities](https://ethcc.io/archives/analysis-and-auditing-of-zkp-vulnerabilities)|Mirror Tang|July 11, 2024|
+|EthCC[7]|[Securing ZK Applications: Challenges and Best Practices](https://ethcc.io/archives/securing-zk-applications-challenges-and-best-practices)|Dominic Brütsch|July 11, 2024|
+|EthCC[7]|[Reckle Trees: Primitives for zk-Coprocessor](https://ethcc.io/archives/reckle-trees-primitives-for-zk-coprocessor)|Shravan Srinivasan|July 11, 2024|
+|EthCC[7]|[The rise of truthful applications](https://ethcc.io/archives/the-rise-of-truthful-applications)|Sylve Chevet|July 11, 2024|
+|EthCC[7]|[The Future of Digital Identity](https://ethcc.io/archives/the-future-of-digital-identity)|dcbuilder.eth|July 11, 2024|
+|EthCC[7]|[Wake Up, Neo: Decrypting the Identity Matrix with ZKPs](https://ethcc.io/archives/wake-up-neo-decrypting-the-identity-matrix-with-zkps)|Mashiat Ferdous (marvelgirl)|July 11, 2024|
+|EthCC[7]|[Elliptic Curves and ZK Proofs](https://ethcc.io/archives/elliptic-curves-and-zk-proofs)|Özgür Armanc Yiğit|July 11, 2024|
+|EthCC[8]|[An engineering perspective to zero-knowledge proofs and optimization](https://ethcc.io/archives/an-engineering-perspective-to-zero-knowledge-proofs-and-optimization)|Zhengxun Wu|June 30, 2025|
+|EthCC[8]|[zkStaking: Enhancing Security and Privacy in Staking with Zero-Knowledge Proofs](https://ethcc.io/archives/zkstaking-enhancing-security-and-privacy-in-staking-with-zero-knowledge-proofs)|Mirror Tang|June 30, 2025|
+|EthCC[8]|[Leveraging AI for Automated Vulnerability Detection in Zero-Knowledge Proof Systems](https://ethcc.io/archives/leveraging-ai-for-automated-vulnerability-detection-in-zero-knowledge-proof-systems)|David Wong (mimoo)|June 30, 2025|
+|EthCC[8]|[SNARKs for Verifiable Inference](https://ethcc.io/archives/snarks-for-verifiable-inference)|Shravan Srinivasan|June 30, 2025|
+|EthCC[8]|[Securing Cross-Chain Interactions with ZK Coprocessor: From Design to On-Chain Verification](https://ethcc.io/archives/securing-cross-chain-interactions-with-zk-coprocessor-from-design-to-on-chain-verification)|BartolomeoDiaz|June 30, 2025|
+|EthCC[8]|[Stress-Testing zkEVM: A Deep Dive into zkEVM Prover Testing Best Practices](https://ethcc.io/archives/stress-testing-zkevm-a-deep-dive-into-zkevm-prover-testing-best-practices)|Leo Jeong|June 30, 2025|
+|EthCC[8]|[Pico: A Modular and Performance ZKVM](https://ethcc.io/archives/pico-a-modular-and-performance-zkvm)|Micheal (from [Brevis](https://www.brevis.network/))|June 30, 2025|
+|EthCC[8]|[Optimizing ZK-Rollups: Unlocking Cost-Effective Proving Infrastructure](https://ethcc.io/archives/optimizing-zk-rollups-unlocking-cost-effective-proving-infrastructure)|Mohsen Ahmadvand|June 30, 2025|
+|EthCC[8]|[zkVM Proof Aggregation: From Zero to Hero](https://ethcc.io/archives/zkvm-proof-aggregation-from-zero-to-hero)|Héctor Masip Ardevol, Roger Taulé|June 30, 2025|
 
 ## CTFs and Puzzles
 
